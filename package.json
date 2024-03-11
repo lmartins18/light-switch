@@ -1,5 +1,6 @@
 {
   "name": "pwa-ligth",
+  "homepage": "https://lmartins18.github.io/light-switch/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
